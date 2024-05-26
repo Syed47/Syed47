@@ -1,4 +1,4 @@
-# Hello, I'm Syed👋
+# Hi, I'm Syed👋
 [![Linkedin Badge](https://img.shields.io/badge/-Syed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedbaryalay47)](https://www.linkedin.com/in/syedbaryalay47) [![GitHub followers](https://img.shields.io/github/followers/Syed47?label=Follow&style=social)](https://github.com/Syed47/?tab=follow)
 
 - 🔭 I’m currently working on: [BCARS](https://github.com/Syed47/BCARS)
