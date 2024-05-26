@@ -17,6 +17,17 @@
 - **Languages**: Java, C, Python, JavaScript, R
 - **Frameworks & Libraries**: React, Node.js, BeautifulSoup, Cypress, Mocha, Selenium
 - **Tools**: JetBrains, Git/GitHub, Trello & Jira
+ **Databases**: PostgreSQL, MongoDB, Redis
+- **Cloud**: AWS (EC2 instances & Lambda)
+
+## 🎮 Hobbies & Interests
+
+When I'm not coding, I enjoy:
+
+- Playing video games 🎮
+- Gym, Boxing 👊
+- Reading wikipedia articles 📚
+- Traveling 🌍
 
 ## GitHub Stats
 
