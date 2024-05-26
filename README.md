@@ -7,7 +7,11 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/syedbaryalay47), [Email](mailto:syedbaryalay47@gmail.com)
 
 
+## Education
 
+- **Sixth Form. Mathematics, Computer Science, Business**
+- **BSc. Data Science**
+- **MSc. Electronic Engineering (ongoing)**
 
 ## Technologies & Tools
 
