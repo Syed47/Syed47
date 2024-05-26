@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: [BCARS](https://github.com/Syed47/BCARS)
 - 🌱 I’m currently learning: Autoencoders, CNN, Embedded Programming
 - 💬 Ask me about: Machine Learning, Statistical Models, Software Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/syedbaryalay47), [Email](mailto:syedbaryalay47@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/syedbaryalay47), [Email](mailto:syedbaryalay47@gmail.com)
 
 
 
