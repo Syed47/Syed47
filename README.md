@@ -6,7 +6,6 @@
 - 💬 Ask me about: Machine Learning, Statistical Models, Software Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/syedbaryalay47), [Email](mailto:syedbaryalay47@gmail.com)
 
-
 ## Education
 
 - **A-Levels. Mathematics, Computer Science, Business - Reigate College, Surrey, UK**
@@ -19,12 +18,9 @@
 - **Frameworks & Libraries**: React, Node.js, BeautifulSoup, Cypress, Mocha, Selenium
 - **Tools**: JetBrains, Git/GitHub, Trello & Jira
 
----
-
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed47&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed47&layout=compact&theme=radical)
 
----
