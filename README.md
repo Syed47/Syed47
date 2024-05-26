@@ -10,7 +10,7 @@
 
 - **A-Levels. Mathematics, Computer Science, Business - Reigate College, Surrey, UK**
 - **BSc. Data Science - Maynooth University**
-- **MSc. Electronic Engineering (ongoing) - Maynooth University**
+- **MSc. Electronics Engineering (ongoing) - Maynooth University**
 
 ## Technologies & Tools
 
