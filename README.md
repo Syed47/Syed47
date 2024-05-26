@@ -17,7 +17,7 @@
 - **Languages**: Java, C, Python, JavaScript, R
 - **Frameworks & Libraries**: React, Node.js, BeautifulSoup, Cypress, Mocha, Selenium
 - **Tools**: JetBrains, Git/GitHub, Trello & Jira
- **Databases**: PostgreSQL, MongoDB, Redis
+- **Databases**: PostgreSQL, MongoDB, Redis
 - **Cloud**: AWS (EC2 instances & Lambda)
 
 ## 🎮 Hobbies & Interests
