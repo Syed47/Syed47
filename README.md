@@ -9,9 +9,9 @@
 
 ## Education
 
-- **Sixth Form. Mathematics, Computer Science, Business**
-- **BSc. Data Science**
-- **MSc. Electronic Engineering (ongoing)**
+- **A-Levels. Mathematics, Computer Science, Business - Reigate College, Surrey, UK**
+- **BSc. Data Science - Maynooth University**
+- **MSc. Electronic Engineering (ongoing) - Maynooth University**
 
 ## Technologies & Tools
 
