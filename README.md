@@ -3,14 +3,6 @@
 
 ---
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed47&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed47&layout=compact&theme=radical)
-
----
-
 - 🔭 I’m currently working on: [BCARS](https://github.com/Syed47/BCARS)
 - 🌱 I’m currently learning: Autoencoders, CNN, Embedded Programming
 - 💬 Ask me about: Machine Learning, Statistical Models, Software Development
@@ -29,5 +21,12 @@
 - **Frameworks & Libraries**: React, Node.js, BeautifulSoup, Cypress, Mocha, Selenium
 - **Tools**: JetBrains, Git/GitHub, Trello & Jira
 
+---
 
+## GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed47&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed47&layout=compact&theme=radical)
+
+---
