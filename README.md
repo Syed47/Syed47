@@ -6,13 +6,13 @@
 - 💬 Ask me about: Machine Learning, Statistical Models, Software Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/syedbaryalay47), [Email](mailto:syedbaryalay47@gmail.com)
 
-## Education
+## Education 🎓
 
-- **A-Levels. Mathematics, Computer Science, Business - Reigate College, Surrey, UK**
-- **BSc. Data Science - Maynooth University**
-- **MSc. Electronics Engineering (ongoing) - Maynooth University**
+- **A-Levels. Mathematics, Computer Science, Business - Reigate College, Surrey, UK (2019)**
+- **BSc. Data Science - Maynooth University (2023)**
+- **MSc. Electronics Engineering - Maynooth University (present)**
 
-## Technologies & Tools
+## Technologies & Tools 🛠️
 
 - **Languages**: Java, C, Python, JavaScript, R
 - **Frameworks & Libraries**: React, Node.js, BeautifulSoup, Cypress, Mocha, Selenium
@@ -20,7 +20,7 @@
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Cloud**: AWS (EC2 instances & Lambda)
 
-## 🎮 Hobbies & Interests
+## Hobbies & Interests 🎮
 
 When I'm not coding, I enjoy:
 
@@ -29,7 +29,7 @@ When I'm not coding, I enjoy:
 - Reading wikipedia articles 📚
 - Traveling 🌍
 
-## GitHub Stats
+## GitHub Stats 📊
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed47&show_icons=true&theme=dark)
 
